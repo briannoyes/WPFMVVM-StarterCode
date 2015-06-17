@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Zza.Data.Order">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEAAAEAAAAACAAAAAAAAAAAAAAIQAAAAAAAAgAAAAg=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zza.Data.Customer">
+    <Position X="6.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAIAAAACAAAAAAAABACAAAAJAAAAAg=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zza.Data.OrderItem">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAQIAAAAAAABgAAAAAA=</HashCode>
+      <FileName>OrderItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zza.Data.Product">
+    <Position X="8.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAAAEAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zza.Data.ProductOption">
+    <Position X="12.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductOption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zza.Data.ProductOptionItem">
+    <Position X="10.25" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAgAQAAAA=</HashCode>
+      <FileName>ProductOptionItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
